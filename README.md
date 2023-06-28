@@ -6,3 +6,4 @@ log di cosa sto facendo:
 -ho fatto reset e ho force push per far tornare il branch main al commit precedente
 -ho fatto il merge dalla branch feature paragraph a develop e poi a main
 -ho fatto altra feature: lo sfondo che cambia, merge a develop e poi richiesta di pull direttamente da github
+-ho provato a simulare dei conflitti. Prima ho creato due branch paralleli da develop: sottotitolo 1 e due, con contenuti diversi. Al merge però non evocava conflitti ma semplicemente uno dei due sovrasciveva l'altro. Il conflitto sono riuscito ad evocarlo nel momento in cui ho provato a fare un merge da un develop a sottotitolo2 nel caso in cui l'ultimo commit di develop era più recente di quello dal quale sottotitolo2 era originato.
