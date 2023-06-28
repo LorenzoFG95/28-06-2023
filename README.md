@@ -5,3 +5,4 @@ log di cosa sto facendo:
 -Ho fatto il merge direttamente su main per vedere se potevo ritornare indietro
 -ho fatto reset e ho force push per far tornare il branch main al commit precedente
 -ho fatto il merge dalla branch feature paragraph a develop e poi a main
+-ho fatto altra feature: lo sfondo che cambia, merge a develop e poi richiesta di pull direttamente da github
