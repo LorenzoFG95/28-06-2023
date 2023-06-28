@@ -14,7 +14,9 @@ function App() {
   return (
     <>
       <h1 className="App_title">Titolo</h1>
-      <h2 className="App_title">Sottotitolo 1</h2>
+      <h2 className="App_title">
+        Sottotitolo 3 modificato direttamente da develop
+      </h2>
       <Para />
     </>
   );
