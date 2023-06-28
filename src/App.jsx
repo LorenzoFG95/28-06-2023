@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <h1 className="App_title">Titolo</h1>
-      <h2 className="App_title">Sottotitolo 2 diverso dal primo</h2>
+      <h2 className="App_title">Sottotitolo secondo</h2>
       <Para />
     </>
   );
